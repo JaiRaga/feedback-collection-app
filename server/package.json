@@ -1,0 +1,18 @@
+{
+  "name": "feedback-collection-app",
+  "version": "1.0.0",
+  "description": "An large scale feedback collection app build using MERN stack",
+  "main": "index.js",
+  "engines": {
+    "node": "12.9.1",
+    "npm": "6.13.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "RAGA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
